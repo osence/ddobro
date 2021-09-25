@@ -26,7 +26,7 @@
  </ul>
 <h4>Демо</h4>
 <p>Демо сервиса доступно по адресу: https://rodion371.wixsite.com/ddobro </p>
-<p>Реквизиты тестового пользователя: email: <b>ddobrotestuser@gmail.com</b>, пароль: <b>ddobropass</b></p>
+<p>Реквизиты тестового пользователя: email: <b>testpochta@mail.ru</b>, пароль: <b>test123</b></p>
 
 
 
