@@ -1,9 +1,3 @@
-# ddobro
-Добро Детям
-Скрин каст:
-https://drive.google.com/file/d/1OOvsIJUj9evLCbZ2zGhTQX0JYecYznEy/view <br>
-Ссылка на сайт:
-https://rodion371.wixsite.com/ddobro
 <p align="center">
     <h1 align="center">README!</h1>
     </p>
@@ -32,7 +26,7 @@ https://rodion371.wixsite.com/ddobro
  </ul>
 <h4>Демо</h4>
 <p>Демо сервиса доступно по адресу: https://rodion371.wixsite.com/ddobro </p>
-<p>Реквизиты тестового пользователя: email: <b>testuser@test.ru</b>, пароль: <b>testuser</b></p>
+<p>Реквизиты тестового пользователя: email: <b>ddobrotestuser@gmail.com</b>, пароль: <b>ddobropass</b></p>
 
 
 
